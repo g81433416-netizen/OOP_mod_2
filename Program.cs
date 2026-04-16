@@ -35,7 +35,7 @@ class Program
         Console.WriteLine(result1.IsSuccess ? result1.Value : result1.Error);
         Console.WriteLine(result2.IsSuccess ? result2.Value : result2.Error);
     }
-
+//хехехе
     static OperationResult<Person> CreatePerson(string name, int age)
     {
         if (string.IsNullOrEmpty(name))
