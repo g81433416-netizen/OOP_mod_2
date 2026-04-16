@@ -1,0 +1,14 @@
+C:\Users\Александра\Documents\ModelWork2\obj\Debug\net10.0\ModelWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александра\Documents\ModelWork2\obj\Debug\net10.0\ModelWork2.AssemblyInfoInputs.cache
+C:\Users\Александра\Documents\ModelWork2\obj\Debug\net10.0\ModelWork2.AssemblyInfo.cs
+C:\Users\Александра\Documents\ModelWork2\obj\Debug\net10.0\ModelWork2.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Documents\ModelWork2\bin\Debug\net10.0\ModelWork2.exe
+C:\Users\Александра\Documents\ModelWork2\bin\Debug\net10.0\ModelWork2.deps.json
+C:\Users\Александра\Documents\ModelWork2\bin\Debug\net10.0\ModelWork2.runtimeconfig.json
+C:\Users\Александра\Documents\ModelWork2\bin\Debug\net10.0\ModelWork2.dll
+C:\Users\Александра\Documents\ModelWork2\bin\Debug\net10.0\ModelWork2.pdb
+C:\Users\Александра\Documents\ModelWork2\obj\Debug\net10.0\ModelWork2.dll
+C:\Users\Александра\Documents\ModelWork2\obj\Debug\net10.0\refint\ModelWork2.dll
+C:\Users\Александра\Documents\ModelWork2\obj\Debug\net10.0\ModelWork2.pdb
+C:\Users\Александра\Documents\ModelWork2\obj\Debug\net10.0\ModelWork2.genruntimeconfig.cache
+C:\Users\Александра\Documents\ModelWork2\obj\Debug\net10.0\ref\ModelWork2.dll
